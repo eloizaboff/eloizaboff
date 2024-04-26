@@ -1,6 +1,6 @@
 
 *{
-    margin: 0;
+    margin: 5;
     padding: 0;
 }
 
@@ -20,10 +20,10 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 15px;
 }
 .escola-imagem{
-    width: 50%;
+    width: 40%;
 }
 
 .escola{
@@ -32,12 +32,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .escola-div-conteudo{
-    width: 60%%;
+    width: 40%%;
 }
 .escola-titulo{
-    padding: 24px 0;
+    padding: 15px 0;
 }
