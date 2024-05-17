@@ -4,6 +4,12 @@
     padding: 0;
 }
 
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 .cabecalho {
     background-color: #4074c6;
     color: white;
